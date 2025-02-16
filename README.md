@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Arpit, and here's a snapshot of who I am:
-- 👀 I’m interested in Engaged in the exciting world of deploying ML solutions to production.
-- 🌱 I’m currently exploring diverse areas to expand my knowledge.
-- 💞️ I’m looking to collaborate on ML projects.
+- 👀 I’m interested in Engaged in the exciting world of deploying Data Science solutions to production.
+- 🌱 I’m currently exploring diverse areas of LLM to expand my knowledge.
+- 💞️ I’m looking to collaborate on Data Science and LLM  projects.
 - 📫 How to reach me www.linkedin.com/in/thearpitsingh
 - 😄 Pronouns: Ask me about Startup world,New Techs and share Journey experiences.
 - ⚡ Fun fact: I love to explore new things about Tech and Startup.
